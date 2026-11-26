@@ -1,0 +1,16 @@
+{
+  "exports": [
+    {
+      "id": "embedded.platform.applications.install",
+      "virtualPath": "./dist\\platform.applications.manifest.all.js",
+      "actionId": "embedded.platform.applications.install",
+      "nodeVersion": 24
+    },
+    {
+      "id": "embedded.platform.applications.uninstall",
+      "virtualPath": "./dist\\platform.applications.manifest.all.js",
+      "actionId": "embedded.platform.applications.uninstall",
+      "nodeVersion": 24
+    }
+  ]
+}
